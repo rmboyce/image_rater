@@ -1,6 +1,6 @@
 # Image Rating Neural Network
 
-[See pdf version here](Image_Rater_Transfer_Learning.pdf).
+See pdf version of code [here](Image_Rater_Transfer_Learning.pdf).
 
 Builds and trains a neural network that assigns aesthetic quality scores to images. It is trained on images from the [AVA (Aesthetic Visual Analysis) dataset](http://refbase.cvc.uab.es/files/MMP2012a.pdf), available [here](http://academictorrents.com/details/71631f83b11d3d79d8f84efe0a7e12f0ac001460).
 
